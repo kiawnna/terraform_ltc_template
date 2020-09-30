@@ -1,5 +1,4 @@
 # The file where you decide which variables you need to be available.
-
 variable "image_id" {
     type = string
     default = "ami-08b26b905b0d17561"

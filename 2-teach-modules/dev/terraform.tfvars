@@ -1,2 +1,2 @@
-app_name = ""
-region = ""
+app_name = "kiasAwesomeApp"
+region = "us-east-1"

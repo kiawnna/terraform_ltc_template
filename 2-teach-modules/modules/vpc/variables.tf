@@ -18,3 +18,7 @@ variable "region" {
     type = string
     default = "us-east-1"
 }
+variable "private_subnet1_cidr_block" {
+    type = string
+    default = "10.200.2.0/24"
+}
